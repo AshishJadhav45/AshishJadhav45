@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/@imash1845" target="blank"><img src="https://img.shields.io/twitter/follow/@imash1845?logo=twitter&style=for-the-badge" alt="@imash1845" /></a> </p>
 
 # 💫 About Me:
-- 🌱 I’m currently learning  -  **Android Development**<br><br>- 💬 Ask me about - **Ai,Python,java,machine learning**<br><br>- 📫 How to reach me  -  **vinodjadhav1845@gmail.com**<br><br>- ⚡ Fun fact  -  I think I will be next anonymous.<br>
+  - 🌱 I’m currently learning  -  **Android Development**<br><br>- 💬 Ask me about - **Ai,Python,java,machine learning**<br><br>- 📫 How to reach me  -  **vinodjadhav1845@gmail.com**<br><br>- ⚡ Fun fact  -  I think I will be next anonymous.<br>
 
 
 ## 🌐 Socials:
