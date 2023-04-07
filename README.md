@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishjadhav45" alt="ashishjadhav45" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@imash184507" target="blank"><img src="https://img.shields.io/twitter/follow/@imash184507?logo=twitter&style=for-the-badge" alt="@imash184507" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@imash1845" target="blank"><img src="https://img.shields.io/twitter/follow/@imash184507?logo=twitter&style=for-the-badge" alt="@imash1845" /></a> </p>
 
 # 💫 About Me:
 - 🌱 I’m currently learning  -  **Android Development**<br><br>- 💬 Ask me about - **Ai,Python,java,machine learning**<br><br>- 📫 How to reach me  -  **vinodjadhav1845@gmail.com**<br><br>- ⚡ Fun fact  -  I think I will be next anonymous.<br>
