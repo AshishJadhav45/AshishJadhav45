@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ashish Jadhav 👨‍💻</h1>
-
-
-<p align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=F7982B&width=435&lines=Always+learning+new+things;Full-Stack+web+and+app+developer;Youtuber+;Be+anonymous+%3A)" alt="Typing SVG" /></a>
-</p>
-
-
-<br>
-
 <h3 align="center">A passionate Machine learning Engineer</h3>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishjadhav45&label=Profile%20views&color=0e75b6&style=flat" alt="ashishjadhav45" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@imash1845" target="blank"><img src="https://img.shields.io/twitter/follow/imash1845?logo=twitter&style=for-the-badge" alt="@imash1845" /></a> </p>
 
 # 💫 About Me:
+
+<p align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=F7982B&width=435&lines=Always+learning+new+things;Full-Stack+web+and+app+developer;Youtuber+;Be+anonymous+%3A)" alt="Typing SVG" /></a>
+</p>
+
   - 🌱 I’m currently learning  -  **Android Development**<br><br>- 💬 Ask me about - **Ai,Python,java,machine learning**<br><br>- 📫 How to reach me  -  **vinodjadhav1845@gmail.com**<br><br>- ⚡ Fun fact  -  I think I will be next anonymous.<br>
 
 
