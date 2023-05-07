@@ -11,7 +11,7 @@
 # 💫 About Me:
 
 <p align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=F7982B&width=435&lines=Youtuber+%3A);Be+anonymous+%3A);Always+learning+new+things;Full-Stack+web+and+app+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=1000&pause=1000&color=F7982B&width=435&lines=Youtuber+%3A);Full-Stack+web+and+app+developer;Always+learning+new+things;Be+anonymous+%3A)" alt="Typing SVG" /></a>
 </p>
 
   - 🌱 I’m currently learning  -  **Android Development**<br><br>- 💬 Ask me about - **Ai,Python,java,machine learning**<br><br>- 📫 How to reach me  -  **vinodjadhav1845@gmail.com**<br><br>- ⚡ Fun fact  -  I think I will be next anonymous.<br>
