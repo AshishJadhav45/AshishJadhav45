@@ -13,6 +13,7 @@
 
   - 🌱 I’m currently learning  -  **Android Development**<br><br>- 💬 Ask me about - **Ai,Python,java,machine learning**<br><br>- 📫 How to reach me  -  **vinodjadhav1845@gmail.com**<br><br>- ⚡ Fun fact  -  I think I will be next anonymous.<br>
 
+<br>
 
 <p align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=1000&pause=1000&color=26D4F7&width=435&lines=Full-Stack+Web+-+App+developer;Programmer;Youtuber+%3A);Always+learning+new+thing" alt="Typing SVG" /></a>
