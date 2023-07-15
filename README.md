@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashish Jadhav 👨‍💻</h1>
-<h3 align="center">A passionate Machine learning Engineer</h3>
+<h1 align="center">Hi, I am Ashish! Great to see you here! 👋 👨‍💻</h1>
+
 
 
 
