@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Ashish! Great to see you here! 👋 👨‍💻</h1>
+<h1 align="center">Hi there! Great to see you here! 👋 👨‍💻</h1>
 
 
 
